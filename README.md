@@ -3,7 +3,7 @@ The report below summarizes sales data of a certain German company (called **Sip
 The dataset (downloaded from [Kaggle](https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales/data)) is synthetic yet designed to simulate realistic patterns in the beverage industry.
 All of the information below refer to the [interactive Tableau dashboard](https://public.tableau.com/app/profile/micha.kilarski5715/viz/BeverageSalesDashboard_17447325903020/Dashboard1).
 
-(placeholder for the screenshot)
+![Screenshot with summary](Sipply_summary.jpg)
 
 ## Key Metrics and Dimensions
 - **Sales**: total sales of all beverages (in euros)
