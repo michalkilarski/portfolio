@@ -26,10 +26,14 @@ Based on RFM analysis with k-means, 3 segments of customers were defined for bot
 - **Growing Partners**: new or small business clients with potential to grow
 - **Irregular Clients**: businesses that used to buy often but have gone quiet
 
+![B2B Segments Graph](B2B_segments.jpg)
+
 **B2C**:
 - **Top Regulars**: high-spending individuals, likely enthusiasts or influencers in the alcohol niche
 - **Rising Stars**: first-time buyers or low-frequency casual customers
 - **Casual Shoppers**: once-loyal customers who have not bought in a while
+
+![B2C Segments Graph](B2C_segments.jpg)
 
 ## Recommendations and Next Steps
 1. Approaches to customer segments:
