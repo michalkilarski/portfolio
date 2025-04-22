@@ -18,7 +18,9 @@ For more details, see [the interactive dashboard in Looker Studio]( https://look
 ### Sales Overview
 - In the course of 2017, Olist experienced a big growth in sales, contributing to the successful emergence of Olist as important ecommerce platform. During the analyzed period, total sales approached 1M R$ in several months
 - Key product categories in terms of sales are **health and beauty**, **watches and gifts**, and **bed, bath, table**, all exceeding 1M sales in the analyzed period
-- States that bring most sales are located along the most populous southeastern coast, including Sao Paulo, Minas Gerais, Rio Grande do Sul, and Santa Catarina. 
+- States that bring most sales are located along the most populous southeastern coast, including Sao Paulo, Minas Gerais, Rio Grande do Sul, and Santa Catarina.
+
+![Sales summary](Olist_summary.jpg)
 
 ### Sellers
 Based on the delivery time ratio and average order value, sellers were categorized into four categories:
@@ -29,17 +31,22 @@ Based on the delivery time ratio and average order value, sellers were categoriz
 Vast majority of 91.8% of sellers deliver the orders to carriers on time. Among them, efficient sellers with high revenue orders account for 45.6% of all sellers.
 Additionally, sellers were categorized based on the delivery time ratio only. 10% of all sellers are **exceptional** with the delivery time ratio below 0.25, meaning that they start shipping significantly prior to shipping limit date. On the other hand, 2.5% and 5.7% of sellers are slightly, and frequently late, respectively.
 
+![Sellers analysis](Olist_sellers.jpg)
+
 ### Customers
 - 75.4% of orders were paid with card payment methods. Tickets (boletos) are also popular, accounting for 19% of all orders.
 - Although the popularity of card payments and ticket significantly differ, the average order values for both these payment methods are high (163 R$ for card payments, 145 R$ for tickets)
 - Based on the RFM analysis, 9 segments of customers were identified. Most customers belong to the **Need Attention** segment (34.4K customers), as well as to **Hibernating** (15.9K), **Potential Loyalists** (12.1K), and **Loyal Customers** (11.1K) segments. The most important one, **Best Customers** consists of 667 customers.
 
+![Customers analysis](Olist_customers.jpg)
 
 ### Logistics
 - The biggest share of late orders belong to categories with small amounts of orders. Among categories with at least 100 late orders, the share of late orders in total orders is the highest for the **office furniture**, **baby**, **electronics**, and **health and beauty** categories.
 - Taking into account the average delivery deviation and the standard deviation of this metric, delays occur most often in the **furniture**, **home and comfort**, **food**, and **home appliances** categories.
 - The biggest delays occur in the **home appliances** (22 days), **food and drink** (18 days), and **music** (18 days) categories
 - Northeastern and southern coast, along with the enclaves in the central/western part of the country, are the regions where customers most often place more expensive orders and need to wait long for delivery at the same time
+
+![Logistics analysis](Olist_logistics.jpg)
 
 ## Recommendations and Next Steps
 ### General
